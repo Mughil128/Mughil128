@@ -6,9 +6,9 @@
 
 ---
 
-## Some Projects## 🛠️ Projects I'm Proud Of
+## Some Projects
 
-### 🛰️ Digital Twin for 5G Tower Placement  
+### Digital Twin for 5G Tower Placement  
 An interactive simulation platform for placing 5G network towers on a digital map, helping optimize signal coverage while avoiding invalid locations.  
 - Built using Mapbox GL for geospatial visualization  
 - Dynamically filters out unsuitable areas (like water bodies)  
@@ -16,7 +16,7 @@ An interactive simulation platform for placing 5G network towers on a digital ma
 - Features user-driven tower placement, visual feedback, and live updates  
 _Tech used: React Vite, Python, PostgreSQL, Mapbox GL_
 
-### 📚 Personalized Study Planner  
+### Personalized Study Planner  
 An intelligent planner that generates adaptive study schedules based on your mood, academic load, and performance patterns.  
 - Uses reinforcement learning to optimize time allocation  
 - Features a mood selector that adjusts plans dynamically  
@@ -25,7 +25,7 @@ An intelligent planner that generates adaptive study schedules based on your moo
 - Powered by Gemini AI and FAISS for smart content handling and vector search  
 _Tech used: React (Vite), Flask, Firebase, GeminiAI, FAISS_
 
-### 📑 OD Processing System  
+### OD Processing System  
 A web application to streamline on-duty request handling for students and faculty in academic institutions.  
 - Digitizes manual approval flow with structured forms  
 - Auto-routes requests to appropriate faculty/institution authorities  
@@ -91,6 +91,7 @@ _Tech used: MongoDB, Express.js, React, Node.js (MERN stack)_
 </tr>
 </table>
 (More projects coming (hopefully) soon)
+
 ---
 
 ## Connect With Me
