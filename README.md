@@ -14,6 +14,7 @@ An interactive simulation platform for placing 5G network towers on a digital ma
 - Dynamically filters out unsuitable areas (like water bodies)  
 - Aims to replicate real-world constraints in tower deployment  
 - Features user-driven tower placement, visual feedback, and live updates  
+
 _Tech used: React Vite, Python, PostgreSQL, Mapbox GL_
 
 ### Personalized Study Planner  
@@ -23,6 +24,7 @@ An intelligent planner that generates adaptive study schedules based on your moo
 - Includes KNN-based friend recommendations for collaborative scheduling  
 - Synced breaks and an inspiration wall to keep motivation high  
 - Powered by Gemini AI and FAISS for smart content handling and vector search  
+
 _Tech used: React (Vite), Flask, Firebase, GeminiAI, FAISS_
 
 ### OD Processing System  
@@ -31,6 +33,7 @@ A web application to streamline on-duty request handling for students and facult
 - Auto-routes requests to appropriate faculty/institution authorities  
 - Students can view request status and receive instant updates  
 - Built with a clean UI and secure backend validation  
+
 _Tech used: MongoDB, Express.js, React, Node.js (MERN stack)_
 
 ---
@@ -64,7 +67,7 @@ _Tech used: MongoDB, Express.js, React, Node.js (MERN stack)_
 - **English Olympiad** – International Rank 2 
 - Core Member – SSN Humour Club 
 - Core Member (Content Creation) - SSN English Literary Club
-- Documentation Team - SSN Lakshya (Enterpreneurship Development Cell) 
+- Documentation Team - SSN Lakshya (Entrepreneurship Development Cell) 
 - Volunteering – NSS & Scouts & Guides  
 
 ---
