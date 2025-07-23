@@ -1,25 +1,37 @@
 # 👋 Hi, I'm Mughilan Paul!
 
-IT Student at SSN College of Engineering  
-Passionate about Full-Stack Development, Software Development, Creative Tech Projects, and Problem Solving  
-Actively preparing for internships & placements
+- IT Student at SSN College of Engineering  
+- Passionate about Full-Stack Development, Software Development, Creative Tech Projects, and Problem Solving  
+- Actively preparing for internships & placements
 
 ---
 
-## Some Projects
+## Some Projects## 🛠️ Projects I'm Proud Of
 
-- **Digital Twin for 5G Tower Placement**  
-  Simulating real-world tower placement using Mapbox GL with React.js  
-  _Optimizes coverage, filters invalid placements (e.g., towers on water)_
+### 🛰️ Digital Twin for 5G Tower Placement  
+An interactive simulation platform for placing 5G network towers on a digital map, helping optimize signal coverage while avoiding invalid locations.  
+- Built using Mapbox GL for geospatial visualization  
+- Dynamically filters out unsuitable areas (like water bodies)  
+- Aims to replicate real-world constraints in tower deployment  
+- Features user-driven tower placement, visual feedback, and live updates  
+_Tech used: React Vite, Python, PostgreSQL, Mapbox GL_
 
-- **Personalized Study Planner**
-  A smart planner that creates personalized study schedules based on your mood, past performance, and course load
-  Includes friend recommendations (KNN), synced break times, an Inspiration Wall, and a Mood Selector
-  _Tech used: React (Vite), Flask, Firebase, GeminiAI and FAISS_
+### 📚 Personalized Study Planner  
+An intelligent planner that generates adaptive study schedules based on your mood, academic load, and performance patterns.  
+- Uses reinforcement learning to optimize time allocation  
+- Features a mood selector that adjusts plans dynamically  
+- Includes KNN-based friend recommendations for collaborative scheduling  
+- Synced breaks and an inspiration wall to keep motivation high  
+- Powered by Gemini AI and FAISS for smart content handling and vector search  
+_Tech used: React (Vite), Flask, Firebase, GeminiAI, FAISS_
 
-- **OD Processing System**  
-  MERN stack-based web app to simplify academic on-duty approvals  
-  _Built with React, Node.js, Express & MongoDB_
+### 📑 OD Processing System  
+A web application to streamline on-duty request handling for students and faculty in academic institutions.  
+- Digitizes manual approval flow with structured forms  
+- Auto-routes requests to appropriate faculty/institution authorities  
+- Students can view request status and receive instant updates  
+- Built with a clean UI and secure backend validation  
+_Tech used: MongoDB, Express.js, React, Node.js (MERN stack)_
 
 ---
 
@@ -49,7 +61,7 @@ Actively preparing for internships & placements
 
 - **Smart India Hackathon** – Finalist  
 - **Full-stack projects** for both coursework and personal development  
-- **English Olympiad – International Rank 2**  
+- **English Olympiad** – International Rank 2 
 - Core Member – SSN Humour Club 
 - Core Member (Content Creation) - SSN English Literary Club
 - Documentation Team - SSN Lakshya (Enterpreneurship Development Cell) 
@@ -78,7 +90,7 @@ Actively preparing for internships & placements
 </td>
 </tr>
 </table>
-
+(More projects coming (hopefully) soon)
 ---
 
 ## Connect With Me
